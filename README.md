@@ -1,4 +1,4 @@
-# running_for_brews
+# Running for Brews
 This application was generated using JHipster 4.10.2, you can find documentation and help at [http://www.jhipster.tech/documentation-archive/v4.10.2](http://www.jhipster.tech/documentation-archive/v4.10.2).
 
 [![CircleCI](https://circleci.com/gh/faltdor/running-for-brews.svg?style=svg)](https://circleci.com/gh/faltdor/running-for-brews)
